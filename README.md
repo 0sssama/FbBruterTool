@@ -1,5 +1,5 @@
 # FbBruterTool
-Facebook Dictionary Brute Force
+Facebook Python Brute Force
 
 # Installation
 ```
