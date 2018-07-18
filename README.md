@@ -1,7 +1,7 @@
 # FbBruterTool
 Facebook Dictionary Brute Force
 
-# Installing
+# Installation
 ```
 pip install mechanize
 ```
